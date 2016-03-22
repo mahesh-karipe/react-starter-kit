@@ -5,6 +5,5 @@ Boilerplate for React applications
 
 - cd react-starter-kit
 - npm install
-- webpack
-- Open index.js
-
+- npm start
+- Open http://localhost:3000
